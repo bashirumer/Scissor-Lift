@@ -23,7 +23,7 @@ To access and use the design files:
 1. Clone the repo: git clone https://github.com/bashirumer/SL-LxxL_Pro-Scissor-Lift.git
 2. Navigate to the CAD Files directory.
 3. Open the files in SolidWorks or a compatible CAD viewer.
-4. 
+
 ## Usage
 - For Construction Teams: Consult the Documentation folder for assembly instructions and safety guidelines before setup and use at the construction site.
 - For Developers and Engineers: Access the CAD Files and Simulations to modify designs or adapt the lift for specific needs.
